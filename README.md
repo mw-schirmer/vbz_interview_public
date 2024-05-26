@@ -2,4 +2,5 @@
 
 This dashboard visualizes frequencies provided for the Hardbruecke location
 
-![alt text](https://github.com/mw-schirmer/vbz_interview_public/blob/main/screenshot.PNG?raw=true)
+![screenshot cannot be loaded](data/screenshot.PNG)
+
